@@ -1,8 +1,11 @@
+import logoIcon from '../assets/logoIcon.svg'
+
+
 export const Logo: React.FC = () => {
     return (  
         <div className="flex gap-x-2 items-center">
             <img 
-                src="/favicon.svg" 
+                src={logoIcon} 
                 alt="logo" 
                 className="w-10 h-10 md:w-14 md:h-14"
             />
