@@ -75,7 +75,7 @@ export const Container:React.FC<ContainerProps> = (
 
 
     return (
-        <div className={`mx-auto rounded-lg p-2 md:p-6 w-full max-w-3xl  max-h-[550px] 
+        <div className={`mx-auto rounded-lg p-2 md:p-6 w-full max-w-3xl h-[530px]
             ${theme === 'light' ? "border border-slate-400 bg-sky-200/50" : "border bg-sky-100/10" }
         `}>
             <ContainerHeader 

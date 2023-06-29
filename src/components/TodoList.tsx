@@ -22,7 +22,7 @@ interface TodoListProps {
 
 
     return (  
-        <div className="min-h-[300px] max-h-[400px] overflow-scroll">
+        <div className="min-h-[300px] max-h-[300px] h-[280px] overflow-y-auto">
             {todosList.length > 0 ? todos.length > 0 ? (
                 <ul>
                     {todos.map(({id, text, isCompleted, date, time}) => (

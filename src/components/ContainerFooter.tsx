@@ -23,7 +23,7 @@ export const ContainerFooter:React.FC<ContainerFooterProps> = ({onOpenModalToDel
 
 
     return (
-        <div className='w-full pt-5 flex justify-between border-t border-sky-300'>
+        <div className='w-full pt-3 flex justify-between border-t border-sky-300'>
             <TransparentButton 
                 buttonText={"Complete All"} 
                 onClickHandler={onCompleteAllTodos} 

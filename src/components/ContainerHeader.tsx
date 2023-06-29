@@ -19,7 +19,7 @@ export const ContainerHeader:React.FC<ContainerHeaderProps> = (
     return (
         <div className='w-full pb-5 flex justify-between border-b border-sky-300 relative mb-8'>
             <div className='flex flex-col gap-y-2'>
-                <h2 className='font-extrabold uppercase text-slate-400 text-md md:text-3xl'>
+                <h2 className='font-extrabold uppercase text-slate-400 text-md md:text-xl'>
                     tasks list
                 </h2>
                 <Filter 

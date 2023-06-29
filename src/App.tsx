@@ -42,7 +42,7 @@ export const App:React.FC = () => {
 
     return (
         <>
-            <div className={`w-screen min-h-screen flex flex-col items-center justify-between gap-8
+            <div className={`w-screen min-h-screen flex flex-col items-center justify-between gap-4
                 ${theme === 'light' ? "bg-sky-100" : "bg-sky-900"}
             `}>
                 <Header/>

@@ -43,16 +43,16 @@ export const TodoItem:React.FC<TodoItemProps> = (
 
 
     return (
-        <li className={`p-1 md:p-3 flex justify-between items-center last:border-0 last:mb-8 border-b
+        <li className={`w-full p-1 md:p-3 flex justify-between items-center last:border-0 last:mb-8 border-b
             ${theme === 'light' ? "border-slate-300" : ""}
         `}>
-            <div className='flex gap-x-2 items-center'>
+            <div className='flex gap-x-2 items-center justify-start'>
                 <TodoCheck 
                     isCompleted={isCompleted} 
                     onClickHandler={onToggleTodo}
                 />
                 <div className='flex flex-col'>
-                    <p className={`
+                    <p className={`max-w-xl
                         ${theme === 'light' ? "text-slate-700" : "text-slate-100"}
                         ${ isCompleted && 'line-through'}
                     `}>
