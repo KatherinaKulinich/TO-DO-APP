@@ -64,9 +64,9 @@
 </div>
 <br/>
 <div align='center'>
-  <img width='280' src='https://github.com/KatherinaKulinich/TO-DO-APP/assets/109860560/fab20b21-ec8e-440d-84b6-633ac29e1d30'/>
-  <img width='280' src='https://github.com/KatherinaKulinich/TO-DO-APP/assets/109860560/d73a9a79-e0cc-4dce-8896-7037bfbf7aaa'/>
-  <img width='280' src='https://github.com/KatherinaKulinich/TO-DO-APP/assets/109860560/4972c507-a0c9-4bad-a290-e942373c4590'/>
+  <img width='260' src='https://github.com/KatherinaKulinich/TO-DO-APP/assets/109860560/fab20b21-ec8e-440d-84b6-633ac29e1d30'/>
+  <img width='260' src='https://github.com/KatherinaKulinich/TO-DO-APP/assets/109860560/d73a9a79-e0cc-4dce-8896-7037bfbf7aaa'/>
+  <img width='260' src='https://github.com/KatherinaKulinich/TO-DO-APP/assets/109860560/4972c507-a0c9-4bad-a290-e942373c4590'/>
 </div>
 
 
