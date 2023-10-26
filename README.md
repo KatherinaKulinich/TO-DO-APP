@@ -64,9 +64,9 @@
 </div>
 <br/>
 <div align='center'>
-  <img width='300' src='https://github.com/KatherinaKulinich/TO-DO-APP/assets/109860560/fab20b21-ec8e-440d-84b6-633ac29e1d30'/>
-  <img width='300' src='https://github.com/KatherinaKulinich/TO-DO-APP/assets/109860560/d73a9a79-e0cc-4dce-8896-7037bfbf7aaa'/>
-  <img width='300' src='https://github.com/KatherinaKulinich/TO-DO-APP/assets/109860560/4972c507-a0c9-4bad-a290-e942373c4590'/>
+  <img width='280' src='https://github.com/KatherinaKulinich/TO-DO-APP/assets/109860560/fab20b21-ec8e-440d-84b6-633ac29e1d30'/>
+  <img width='280' src='https://github.com/KatherinaKulinich/TO-DO-APP/assets/109860560/d73a9a79-e0cc-4dce-8896-7037bfbf7aaa'/>
+  <img width='280' src='https://github.com/KatherinaKulinich/TO-DO-APP/assets/109860560/4972c507-a0c9-4bad-a290-e942373c4590'/>
 </div>
 
 
@@ -78,8 +78,8 @@
 <p>Tailor the app to your preferences with the option to switch between light and dark themes</p>
 
 <div align='center'>
-  <img width='450' height='320' src='https://github.com/KatherinaKulinich/TO-DO-APP/assets/109860560/5ef92061-a012-4a16-ba1e-d20ae76fa28a'/>
-  <img width='450' height='320' src='https://github.com/KatherinaKulinich/TO-DO-APP/assets/109860560/0e6f7cd0-c625-4980-a25d-76077139e6d9'/>
+  <img width='400' height='320' src='https://github.com/KatherinaKulinich/TO-DO-APP/assets/109860560/5ef92061-a012-4a16-ba1e-d20ae76fa28a'/>
+  <img width='400' height='320' src='https://github.com/KatherinaKulinich/TO-DO-APP/assets/109860560/0e6f7cd0-c625-4980-a25d-76077139e6d9'/>
 </div>
 
 
