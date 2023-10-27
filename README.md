@@ -26,6 +26,9 @@
 <span>
   <img width='60' src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/>
 </span>
+<span>
+  <img width='60' src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35"/>
+</span>
 
 <hr/>
 
